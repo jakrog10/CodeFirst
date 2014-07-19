@@ -1,0 +1,14 @@
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\BreakAwayConsole.exe.config
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\BreakAwayConsole.exe
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\BreakAwayConsole.pdb
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\DataAccess.dll
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\EntityFramework.dll
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\Model.dll
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\DataAccess.pdb
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\Model.pdb
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\EntityFramework.xml
+C:\Users\jake\Projects\Model\BreakAwayConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jake\Projects\Model\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.csprojResolveAssemblyReference.cache
+C:\Users\jake\Projects\Model\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.exe
+C:\Users\jake\Projects\Model\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.pdb

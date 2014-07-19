@@ -1,0 +1,12 @@
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\Model.dll
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\Model.pdb
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\jake\Projects\Model\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jake\Projects\Model\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\jake\Projects\Model\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jake\Projects\Model\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,9 @@
+C:\Users\jake\Projects\Model\Model\bin\Debug\Model.dll
+C:\Users\jake\Projects\Model\Model\bin\Debug\Model.pdb
+C:\Users\jake\Projects\Model\Model\obj\Debug\Model.dll
+C:\Users\jake\Projects\Model\Model\obj\Debug\Model.pdb
+C:\Users\jake\Projects\Model\Model\bin\Debug\Model.dll.config
+C:\Users\jake\Projects\Model\Model\bin\Debug\EntityFramework.dll
+C:\Users\jake\Projects\Model\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jake\Projects\Model\Model\bin\Debug\EntityFramework.xml
+C:\Users\jake\Projects\Model\Model\bin\Debug\EntityFramework.SqlServer.xml
